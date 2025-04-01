@@ -19,7 +19,7 @@ MindEase ajută la conștientizarea stării emoționale printr-o metodă discret
 ## How is it used?
 
 Utilizatorul introduce gânduri zilnic într-un jurnal digital sau răspunde la întrebări despre starea sa. Modelul AI analizează limbajul natural și identifică semnale subtile de stres, anxietate sau depresie. Pe baza analizei, aplicația oferă sugestii personalizate: exerciții de respirație, sugestii de activități, jurnal de recunoștință etc.
-![Infografic MindEase](mindease_infografic.png)
+![Infografic MindEase](MindEase.jpeg)
 
 Este util în:
 * contexte personale – pentru auto-monitorizare
