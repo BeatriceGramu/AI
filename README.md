@@ -1,5 +1,5 @@
-# Project Title
-MindEase – AI pentru sănătatea mintală
+# MindEase – AI pentru sănătatea mintală
+Final project for the Building AI course
 
 ## Summary
 MindEase este o aplicație AI care analizează textele scrise de utilizatori pentru a detecta semne timpurii de stres, anxietate sau depresie și oferă sugestii personalizate pentru îmbunătățirea stării de bine.  
