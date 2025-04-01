@@ -1,4 +1,4 @@
-## MindEase – AI pentru sănătatea mintală
+# MindEase – AI pentru sănătatea mintală
 
 The final project for the Building AI course
 
