@@ -26,7 +26,6 @@ Este util în:
 * educație – pentru a susține elevii/studenții
 * companii – pentru wellbeing-ul angajaților
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Sad_Girl.jpg/640px-Sad_Girl.jpg" width="300">
 
 ## Data sources and AI methods
 
